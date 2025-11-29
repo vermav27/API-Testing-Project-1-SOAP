@@ -1,0 +1,3 @@
+Command for Simple run : newman run <collection name>
+Command for Simple Run and get a simple html report : newman run <collection name> -r html
+Command for simple run and get a colored html report : newman run <collection name> -r htmlextra --reporter-htmlextra-title "<Report name>"
